@@ -1,6 +1,6 @@
-[![Maintainability](https://api.codeclimate.com/v1/badges/ab37e1888b67d3e8bee6/maintainability)](https://codeclimate.com/github/my-arcade/MyArcade-backend/maintainability)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/ab37e1888b67d3e8bee6/test_coverage)](https://codeclimate.com/github/my-arcade/MyArcade-backend/test_coverage)
-[![Build Status](https://travis-ci.org/my-arcade/MyArcade-backend.svg?branch=develop)](https://travis-ci.org/my-arcade/MyArcade-backend)
+[![Maintainability](https://api.codeclimate.com/v1/badges/8d32c692979ae21ffd07/maintainability)](https://codeclimate.com/github/kt20-MA/MyArcade-backend/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/8d32c692979ae21ffd07/test_coverage)](https://codeclimate.com/github/kt20-MA/MyArcade-backend/test_coverage)
+[![Build Status](https://travis-ci.org/kt20-MA/MyArcade-backend.svg?branch=develop)](https://travis-ci.org/kt20-MA/MyArcade-backend)
 ## MYARCARDE API
 
 ## About the Project
