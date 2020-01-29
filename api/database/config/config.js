@@ -1,5 +1,4 @@
-import dotenv from 'dotenv';
-dotenv.config();
+require('dotenv').config();
 
 const configuration = {
   development: {
@@ -16,4 +15,4 @@ const configuration = {
   }
 };
 
-export default configuration;
+module.exports = configuration; 
