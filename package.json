@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/my-arcade/MyArcade-backend#readme",
   "dependencies": {
-    "apollo-server": "^2.9.12",
+    "apollo-server": "^2.25.4",
     "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
